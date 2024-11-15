@@ -3,9 +3,9 @@
 
 <h2>About Me</h2>
 
-- 🔭 I’m currently working on [free5gc](https://github.com/free5gc/free5gc)
+- 🔭 I’m currently working on [free5gc](https://github.com/free5gc/free5gc) / [CloudSeal-Security](https://github.com/CloudSeal-Security)
 
-- 🌱 I’m currently learning 5G/6G core network.
+- 🌱 I’m currently learning 5G/6G core network
 
 - 📫 How to reach me: dufengplus@gmail.com
 
