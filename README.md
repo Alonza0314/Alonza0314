@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning 5G/6G core network
 
-- 📫 How to reach me: dufengplus@gmail.com
+- 📫 How to reach me: dufengplus@gmail.com / [https://alonza0314.github.io](https://alonza0314.github.io)
 
 <h2>Connect with Me</h2>
 <p align="left">
