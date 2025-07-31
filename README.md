@@ -58,4 +58,8 @@
 </p>
 
 <h2>Github Analysis</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alonza0314&show_icons=true&locale=en&layout=compact" alt="Alonza0314" /></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alonza0314&theme=vue)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alonza0314&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alonza0314&theme=github)
