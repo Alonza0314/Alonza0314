@@ -1,5 +1,5 @@
 <h1 align="center">✨ Alonza Tu ✨</h1>
-<h3 align="left">Exploring the endless possibilities of the Network ocean.<p align="right"> <img src="https://komarev.com/ghpvc/?username=Alonza0314&label=Profile%20views&color=0e75b6&style=flat" alt="Alonza0314" /> </p></h3>
+<h3 align="left">Exploring the endless possibilities of the Network ocean.</h3>
 
 <h2>About Me</h2>
 
